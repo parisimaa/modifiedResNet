@@ -6,9 +6,9 @@ This is the Mini-Project for ECE-GY 7123 Introduction to Deep Learning. The goal
 
 # Contributors
 
-* **Parisima Abdali (pa2297)**
-* **Karan Vora (kv2154)**
-* **Ajay Tibrewal (at5632)**
+* **Parisima Abdali (pa2297@nyu.edu)**
+* **Karan Vora (kv2154@nyu.edu)**
+* **Ajay Tibrewal (at5632@nyu.edu)**
 
 ---
 
