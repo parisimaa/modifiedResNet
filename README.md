@@ -12,7 +12,7 @@ This is the Mini-Project for ECE-GY 7123 Introduction to Deep Learning. The goal
 
 In this project, we introduce three modified versions of the ResNet model with the primary goal of achieving high accuracy while adhering to a constraint of less than 5 million trainable parameters. To achieve this objective, we conducted extensive experiments, leveraging different parameters and techniques, including active learning rate, efficient optimizer, layer augmentation, and dropouts. We meticulously analyzed the results of our experiments, presenting the findings in this paper. The outcomes of our work may have implications for various applications where model size and computational resources are critical factors.
 
-We proposed a custom ResNet Architecute and we implemented 3 Networks ResNetSmall, ResNetMedium and ResNetLarge,
+We proposed a custom ResNet Architecture and we implemented 3 Networks ResNetSmall, ResNetMedium and ResNetLarge,
 
 | Network      | Number of Parameters | Convolutional Channels | Optimizers                        | Training Accuracy | Testing Accuracy |
 | ------------ | -------------------- | ---------------------- | --------------------------------- | ----------------- | ---------------- |
